@@ -1,25 +1,25 @@
-title:            Djamila Belharbi's <br > Academic Site
-mytitle:          Soufiane Belharbi's Academic Site
+title:            Djamila Boukehil's <br > Academic Site
+mytitle:          Djamila Boukehil's Academic Site
 description:      Welcome to my website.
-yearstart: 2017
+yearstart: 2018
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //dboukehil.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: sbelharbi
+disqus_shortname: dboukehil
 
 # Owner/author information
 owner:
-  name:           Soufiane Belharbi
-  avatar:         soufiane.jpeg
-  bio:            "Interested in Machine Learning, Deep Learning. I like running uphills (since childhood), and also running for long distance. Current challenge: break my 10km running record <tt>00:46min:30.90</tt>  (June.02.2018 at Rouen) [STRYD]."
+  name:           Djamila Boukehil
+  avatar:         djamila.png
+  bio:            "Maths and Stats."
   email:          #
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: s_belharbi
+  twitter: 
   linkedin: soufiane-belharbi
-  google_scholar: br7lo4MAAAAJ&hl=en
+  google_scholar: 
   google_plus: #
-  github: sbelharbi
+  github: dboukehil
 # Analytics and webmaster tools stuff goes here
 google_analytics: #UA-52736040-1
 google_verify:
@@ -31,14 +31,14 @@ bing_verify:
 links:
   - title: #Curriculum
     url: #/cv/
-  - title: Publications
-    url: /publications/
+  - title: #Publications
+    url: #/publications/
   - title: #Code
     url: #/code/
   - title: Teaching
     url: /teaching/
-  - title: Blog
-    url: /blog/
+  - title: #Blog
+    url: #/blog/
   - title: Miscellany
     url: /miscellany/
   - title: Contact

@@ -20,27 +20,10 @@ working on *deep learning* and *structured output problems*.
 I am intrigued and particularly interested in **learning representations in deep neural networks**.
 
 ## Research Interests
-* Machine Learning
-* Deep Learning
-* Representation Learning
-* Regularization
+* Mathematics
+* Statistics
 
 
 ## News
-* Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie.
-* Volunteer at the upcoming **CAp conference** (Conférence sur l'Apprentissage automatique) June 20<sup>th</sup>-22<sup>th</sup> at Rouen, France ([**cap2018.litislab.fr**](http://cap2018.litislab.fr/)).
-* Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
-* Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
-* Nov. 06<sup>th</sup>, 2017: End of my term as a member of the [**ADDED association**](http://association-added.fr/index-en/), after two years. But, I am still the webmaster for a while.
-* Oct. 05<sup>th</sup> & 06<sup>th</sup>, 2017: [**France is AI**](http://franceisai.com/conference/) conference, 2<sup>nd</sup> ed., Paris.
-* Sept. 25<sup>th</sup>, 2017: **Japanese-French workshop on optimization for machine learning** ([Riken](http://www.riken.jp/en/) & [LITIS](http://www.litislab.eu/)) at
-INSA de Rouen. Organized by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) and [Stéphane Canu](http://asi.insa-rouen.fr/enseignants/~scanu/). I will be there for my presentation about **neural networks regularization** [(**Full presentation**)](/publications/2017/presentation-Neural-networks-regularization-through-representation-learning-Japan-France-workshop-opimization-ml-insa-de-rouen.pdf). Check out the [**program**](https://www.linkedin.com/pulse/japanese-french-workshop-optimization-machine-riken-litis-belharbi). Very exciting!!!!
-* Sept. 2017: New [Arxiv](https://arxiv.org/abs/1709.01867) submission.
-* June, 27th, 2017: Releasing beta version of our DOC-AC club website: [**doctorants-actifs.fr/index-en**](http://doctorants-actifs.fr/index-en/).
-* I will give two talks about [**Representation Learning**](/publications/2017/presentation-Representation-Learning-UCA-Deep-Learning-School-2017-Nice.pdf) and [**Transfer Learning in medical field**](/publications/2017/presentation-l3-detection-UCA-Deep-Learning-School-2017-Nice.pdf) in [***UCA Deep Learning School***](http://univ-cotedazur.fr/events/deep-learning-school) at Université Côte D'Azur, Sophia Antipolis campus, Nice, France in June, 13th, 2017 (June, 12th-15th, 2017). Organized by [Frédéric Precioso](http://www.i3s.unice.fr/~precioso).
-* **New published journal in** [***Computers in Biology and Medicine***](https://www.journals.elsevier.com/computers-in-biology-and-medicine/): *Spotting L3 slice in CT scans using deep convolutional network and transfer learning.*
-* [**ICLR 2017**](http://www.iclr.cc/doku.php?id=ICLR2017:main): 5<sup>th</sup> International Conference on Learning
-  Representations.
-  **Apr 24-26, 2017**. Palais des Congrès Neptune, Toulon, France.
-* "**Deep in France**", kick off. March, 1st, 2017. LIP6, Paris.
+* Coming up.
 
