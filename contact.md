@@ -14,4 +14,4 @@ BP 8-76801 Saint-Étienne du Rouvray Cedex, France
 
 **Phone**: +33 (0)2 32 95 99 04
 
-**Email**: soufiane[dot]belharbi[at]insa-rouen[dot]fr
+**Email**: djamila[dot]boukehil[at]etu[dot]univ-rouen[dot]fr
