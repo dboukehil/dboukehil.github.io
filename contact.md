@@ -5,12 +5,12 @@ title: Contact
 tags: [contact]
 comments: false
 ---
-* *Algeria*:
+*Algeria*:
 
-ENSSEA, Pôle Universitaire de Koléa,
+&nbsp;&nbsp;&nbsp; ENSSEA, Pôle Universitaire de Koléa,
 
-42003, Tipaza, Algérie.
+&nbsp;&nbsp;&nbsp;42003, Tipaza, Algérie.
 
-**Office**: L02
+&nbsp;&nbsp;&nbsp;**Office**: L02
 
-**Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">
+&nbsp;&nbsp;&nbsp;**Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">
