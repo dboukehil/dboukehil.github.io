@@ -5,13 +5,12 @@ title: Contact
 tags: [contact]
 comments: false
 ---
+* *Algeria*:
 
-Avenue de l'Université
+ENSSEA, Pôle Universitaire de Koléa,
 
-BP 8-76801 Saint-Étienne du Rouvray Cedex, France
+42003, Tipaza, Algérie.
 
-**Office**: BO-AR1-05
+**Office**: L02
 
-**Phone**: +33 (0)2 32 95 99 04
-
-**Email**: djamila[dot]boukehil[at]etu[dot]univ-rouen[dot]fr
+**Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">

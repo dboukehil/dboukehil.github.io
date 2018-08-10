@@ -12,20 +12,21 @@ disqus_shortname: dboukehil
 owner:
   name:           Djamila Boukehil
   avatar:         djamila.png
-  bio:            "Maths and Stats."
+  email-img:       mail.png
+  bio:            "Mathematics and statistics."
   email:          #
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
+  twitter:
   linkedin: dboukehil
-  google_scholar: 
+  google_scholar:
   google_plus: #
   github: dboukehil
-# Analytics and webmaster tools stuff goes here 
+# Analytics and webmaster tools stuff goes here
 google_analytics: #UA-52736040-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
- 
+
 # Links to include in top navigation
 # For external links add external: true
 links:
@@ -39,8 +40,8 @@ links:
     url: /teaching/
   - title: #Blog
     url: #/blog/
-  - title: Miscellany
-    url: /miscellany/
+  - title: #Miscellany
+    url: #/miscellany/
   - title: Contact
     url: /contact/
 
@@ -53,7 +54,7 @@ highlighter: rouge
 markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
-  
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
