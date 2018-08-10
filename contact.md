@@ -13,4 +13,6 @@ comments: false
 
 &nbsp;&nbsp;&nbsp;**Office**: L02
 
+<br/>
+
 **Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">
