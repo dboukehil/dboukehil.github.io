@@ -14,3 +14,7 @@ My name is Djamila Boukehil. I am currently enrolled in a cotutelle PhD program 
 * Shrinkage estimation
 * Precision of estimation
 * Discriminant analysis
+
+## News
+Coming up soon.
+
